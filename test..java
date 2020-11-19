@@ -7,8 +7,6 @@ public class AppGraphInOut {
     }
 }
  
-add function1
-
 class AppFrame extends  JFrame
 {
     JTextField in=new JTextField(10);
@@ -26,8 +24,6 @@ class AppFrame extends  JFrame
         setVisible(true);
     }
  
-add function2
-
     class BtnActionAdapter implements ActionListener
     {
         public void actionPerformed(ActionEvent e)
