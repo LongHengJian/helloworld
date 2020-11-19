@@ -2,3 +2,5 @@
 这是在GitHub上的修改
 
 develop分支新增加功能function
+
+develop分支新增功能function2
