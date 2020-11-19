@@ -6,8 +6,15 @@ develop分支新增加功能function
 develop分支新增功能function2
 develop分支新增功能function3
 
+<<<<<<< HEAD
 
 这是为了制造冲突的本地修改
 
 这是为了制造冲突的GitHub修改
 
+=======
+add test1
+
+
+add test2
+>>>>>>> develop
