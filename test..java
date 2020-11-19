@@ -35,3 +35,4 @@ class AppFrame extends  JFrame
         }
     }
 }
+add function3
