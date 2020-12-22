@@ -7,6 +7,3 @@ develop分支新增功能function2
 develop分支新增功能function3
 
 add test1
-
-
-add test2
